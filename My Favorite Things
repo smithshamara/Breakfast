@@ -1,0 +1,191 @@
+<html> 
+  <head> </head>
+  
+  <body>
+    <h1> These are a few of my 
+Favorite Things</h1>
+    
+     <a href = "My-Movies" > My Movies </a> <br   />
+    
+     <a href = "My-Foods" > My Foods </a> <br   />
+    
+     <a href = "My-Shows" > My Shows </a> <br   />
+    
+    
+     <a href = "My-Music" > My Music </a> <br   />
+    
+    <h2> My Movies </h2>
+  
+    
+    <h3> <ol> <li> Their Eyes Were Watching God <br> <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:240px;height:350px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://s-media-cache-ak0.pinimg.com/originals/bd/4d/33/bd4d33ca2906f0d09adcf0732c389573.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+</li> <li> Shrek <br> 
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:240px;height:350px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://images-na.ssl-images-amazon.com/images/I/51oz6ae-79L._SX200_QL80_.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> <li> Despicable Me <br> 
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:250px;height:350px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://static.rogerebert.com/uploads/movie/movie_poster/despicable-me-2010/large_4zHJhBSY4kNZXfhTlmy2TzXD51M.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> </ol> </h3>
+    
+    
+    
+    <h2> My Foods </h2>
+    
+    
+    <h3> <ol> <li> Strawberries <br> 
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://static1.squarespace.com/static/54c9a013e4b003fc91b30852/t/55df28f0e4b08c6323fd5f39/1440688369152/" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> <li> Pizza <br>
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://www.cicis.com/media/1143/pizza_adven_zestyveggie.png" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      
+      </li> <li> Enchiladas <br>
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://www.ernestosfinemexicanfood.com/wp-content/uploads/2015/10/right-image.png" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> </ol> </h3>
+    
+    <h2> My Shows </h2>
+    <h3> <ol> <li> Good Times <br> 
+     <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:350px;height:200px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://www.cheatsheet.com/wp-content/uploads/2015/04/1344455236976.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+ 
+      </li> <li> Gilmore Girls <br> 
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:350px;height:200px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://img.wennermedia.com/480-width/gilmore-girls-befa2363-6f7b-4a68-a37f-17e99fd3513c.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> <li> La Esclava Blanca <br> 
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:350px;height:200px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://www.aaihs.org/wp-content/uploads/2016/07/white-slave.png" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> </ol> </h3>
+    <h2> My Music </h2>
+    <h3> <ol> <li> Butterflies - Michael Jackson <br>
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:350px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Butterflies02.jpg/220px-Butterflies02.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> <li> Good Timez - Jamie XX <br> 
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://reggaelizeit.com/wp-content/uploads/2015/08/Popcaan-Good-Times-Take-Dat-Remix-Jugglerz-VIP-FREE-DOWNLOAD.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> <li> Turn Your Lights Down Low - L. Hill & Marley <br> 
+      <!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://www.mattscdsingles.com/acatalog/18337.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
+      </li> </ol> </h3>
+    
+  </body>
+     
+</html>

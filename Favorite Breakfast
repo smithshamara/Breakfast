@@ -1,0 +1,38 @@
+<html>
+  <body>
+    <head> </head>
+    <h1> What are we making? </h1>
+    <h2> by: Shamara A. Smith </h2>
+    <p> 
+
+          <!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:225px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+      <!-- HTML Code -->
+<img src="https://i.ytimg.com/vi/R8Ln4Md4VLI/maxresdefault.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+    </p>
+    
+    <h3> About the Dish </h3>
+    <p> Fried Dumplings are the perfect match for every breakfast dish. I make this dish every morning to satisfy my craving for quality food! </p>
+    <h3> Ingredients </h3>
+    <ul> 
+      <li> water</li> <li> flour </li> <li> sugar</li> <li> butter</li> <li> oil</li> <li> salt </li> <li> baking powder</li> </ul>
+      
+      <h3> Instructructions </h3>
+    <ol> 
+      <li> Add 2 cups of flour, 1/2 cup of sugar, 2 table spoons of baking powder, and a tea spoon of salt to large mixing bowl </li> 
+      <li>  Add butter to dry ingredients until it crumbles</li>
+      <li> Pour cold water into bowl until texture of dough is consistant </li>
+      <li> Let dough sit under wet cloth for 25 minutes </li>
+      <li> baking powder,
+        <li> Cover bottom of medium sized skillet with oil and heat until warm </li>
+      <li> Roll dough into fist sized balls and flatten slightly </li>
+      <li> Carefully add dough to hot skillet
+        <li> Flip dough and cook to desired firmness
+    </ol>
+  </body> 
+</html>

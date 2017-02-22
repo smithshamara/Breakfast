@@ -1,0 +1,43 @@
+<html>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  
+  <body>
+    <head> </head>
+    <h1> What are we making? </h1>
+    <h2> by: Shamara A. Smith </h2>
+    <p> 
+
+          <!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:225px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+      <!-- HTML Code -->
+<img src="https://i.ytimg.com/vi/R8Ln4Md4VLI/maxresdefault.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+    </p>
+    
+   <div class = "well well-sm" > <h3> About the Dish </h3>  </div>
+    <p> Fried Dumplings are the perfect match for every breakfast dish. I make this dish every morning to satisfy my craving for quality food! </p>
+    
+
+    
+    <div class = "well well-sm">   <h3> Ingredients </h3> </div>
+    <ul> 
+      <div class = "panel" > <li> water</li> </div> <div class = "panel" > <li> flour </li> </div> <div class = "panel" > <li> sugar</li> </div> <div class = "panel"> <li> butter</li> </div> <div class = "panel" >  <li> oil</li> </div>  <div class = "panel" > <li> salt </li> </div> <div class = "panel" > <li> baking powder</li>  </div> </ul>
+      
+    <div class = "well well-sm">     <h3> Instructions </h3> </div>
+    <ol> 
+      <li> Add 2 cups of flour, 1/2 cup of sugar, 2 table spoons of baking powder, and a tea spoon of salt to large mixing bowl </li> 
+      <li>  Add butter to dry ingredients until it crumbles</li>
+      <li> Pour cold water into bowl until texture of dough is consistant </li>
+      <li> Let dough sit under wet cloth for 25 minutes </li>
+      <li> baking powder,
+        <li> Cover bottom of medium sized skillet with oil and heat until warm </li>
+      <li> Roll dough into fist sized balls and flatten slightly </li>
+      <li> Carefully add dough to hot skillet
+        <li> Flip dough and cook to desired firmness
+    </ol>
+  </body> 
+</html>

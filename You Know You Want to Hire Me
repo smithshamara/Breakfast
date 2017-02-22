@@ -1,0 +1,38 @@
+<html>
+  <head> <h1>You Know You Want to Hire Me  </h1>  </head>
+ 
+    <form action= "example.com/join.php">
+
+   <body> 
+          
+   <p>Username: <input type="text" name="username" size="15" maxlength="30" /> </p>   
+      <p> <label for= "password"> Password:</label> <input type= "password" name="password" size="20" required = "required"/> </p>
+      
+      <p> Company Name:  <input type="text" name="Company Name" size="20" maxlength="30"/> </p>
+      
+      <p> Position: <input type:"text" name:"Position" size: "20" maxlength="30"/> </p>
+      <p> Location: <input type:"text" name:"Location" size: "40" Maxlength= "80"> <p> Vacation Days:       
+      <select name = "Vacation Days">
+         <option value= "" >  </option>
+        <option value= "1 - 5" > 1 - 5 </option>
+      <option value= "6-10">6-10</option>
+        <option value="11-19">11-19</option> </select> per year
+      </p>
+      
+      <p> Annual Salary:    <select name = "Vacation Days">
+         <option value= "" >  </option>
+        <option value= "75,000 - 84,999" > 75,000 - 85,000 </option>
+      <option value= "85,000 - 94,999">85,000 - 94,999</option>
+        <option value="95,000+">95,000+</option> </select>
+ <br> </br>      
+      
+      <input type= "submit" value="submit"/>
+      
+      
+    </form>
+    
+  
+  
+  </body>
+
+</html>

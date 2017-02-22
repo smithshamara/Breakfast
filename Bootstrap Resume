@@ -1,0 +1,141 @@
+<html lang=en>
+  <head> 
+    
+     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  <style>
+    
+    https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+
+
+.links { text-align: center;}
+    div {text-align: left; 
+         font-style: normal; }
+    h1 {text-align: left;
+        font-stlye: normal;}
+    h2 {text align: left;
+        color: navy;  }
+    h3 {color: navy; }
+
+
+img {
+	float:left;
+	margin-left:10px;
+  margin-right:50px;
+  padding-left:10px;}
+
+
+
+
+/SELF INFOMRATION/
+.self ul {width:200px;
+	margin-left:10px;
+  float: right ;	}
+
+. ul {width:800px;
+	margin-left:10px;
+  float: right ;	}
+    
+    
+    </style>
+  </head>
+  
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  
+  <body>
+    <div class = "links" > <a href= "#obj"> Objectives</a> - <a href = "#exp"> Experience</a> - <a href = "#edu" >Education</a> - <a href = "#ski"> Skills </a> </div>
+  
+   <div> 
+    <img width=150 src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/12512388_10205803750916750_5968313322216673811_n.jpg?oh=535cd1a3f259fc64ea3250c49223f000&oe=590BE458" </img> </div> 
+         
+    <div> <h1> Shamara A. Smith </h1> </div>
+    
+   <ul style = "list-style-type:none" > <div>  <li id = "self"> 2251 Sherman Ave NW, Washington, DC 20059</li>  <li>  (760)277-4131 </li> <li><a href "mailto: shamara.smith@bison.howard.edu" > shamara.smith@bison.howard.edu </a> </li> <li> <a href =" www.shamarasmith.wordpress.com"> shamarasmith.wordpress.com </a> </li> </div> </ul>
+  <br>
+    
+   <div> <div class = "well well-sm"> <h2 id="obj" > Objectives </h2> </div> 
+    <p> Motivated professional seeking employment within a growning start up. </p> 
+    
+     
+    <div class = "well well-sm"> <h2 id = "edu"> Education </h2> </div>
+   
+    <p> <b> Howard University School of Business</b>, Washington, DC <br>
+
+      <b> Major</b>: Computer Information Systems &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Expected Graduation</b>: May 2018 <br>
+
+      <b>Honors/Awards</b>: 21st Century Advantage Program (CAP) Team MVP, 1st Place in Johnson & Johnson Case Competition.<br>
+
+      <b>Scholarships</b>: Full Tuition Academic Scholarship, Phillips 66 MVP Scholarship, 21 CAP Team Leader Scholarship. <br>
+
+      <b>Coursework</b>: Accounting Information Systems, Software Design, Database Management, Information Security, Systems Analysis.</p>
+    
+    
+    <div> <div class = "well well-sm">   <h2 id = "exp"> Experience</h2> </div>
+    
+  <table style = "width:100%"> 
+    <tr>
+    <th style = "width:20%" > <h3> <b> Travel Operations Intern </b> </h3>  <h4> U.S. Department of Treasury<br>Washington, DC <br> October 2015 – Present </h4> </div>
+ </th> 
+   
+   <th>  <p> <ul> 
+    <li>
+Developed a template that standardized the process of auditing travel vouchers that ensured accuracy and increased efficiency. </li>
+    <li> 
+Ensures accurate disbursement of government funds by performing and reviewing 20+ travel voucher audits a week. </li>
+    <li>
+Maintains a working knowledge of current policies, notices, laws, regulations, and organizational structures. </li>
+<li> Recreates outdated forms and identifies solutions to inquiries to increase customer satisfaction and minimize managers’ workload. </li> </ul> <p> </th> 
+    </tr>
+    
+   <tr>
+     <th>  <div>   <h3> <b>Finance Intern </b> </h3> <h4> Johnson & Johnson (J&J)<br> Global Financial Services (GFS) <br> New Brunswick, NJ <br> May 2016 – August 2016 </h4> </div>
+ </th>
+     <th>  <p>
+<ul> 
+  <li> Prepared financial reportings by following J&J Worldwide Procedures and maintaining SOX compliance in work products.</li>
+<li>Conducted analysis and predicted causes for non-tie outs in financial reporting and found resolutions to solve the errors.</li>
+<li> Collaborated with business partners and managers to create post-consolidation matrix referenced by internal and external entities.</li>
+<li> Compiled the One Medical Devices (1MD) Consolidations Team’s SOX documentation in a timely manner, accurately and completely loaded detail on SharePoint, and provided team the resources needed to ensure meeting of deadlines. </li> </ul> </p> </th>
+    </tr>
+    
+    
+    <tr> 
+      <th>  <div>   <h3> <b>Resident Assistant</b> </h3> <h4> Howard University Office of Residence Life <br> Washington, DC <br> September 2014 – May 2016 </h4>  </th>
+     <th> 
+    
+  <ul>
+<li>Served as first point of contact for students, invitees, and staff calling or visiting the main administrative office.</li>
+
+<li>Organized weekly events for the gratification of residents including a pep rally for 70+ guests while managing a team of 24.</li>
+
+<li> Diffused and resolved various volatile customer situations while completing required duties at front desk and in residence hall.</li>
+
+<li> Managed floor of 40 residents and maintained a healthy living environment by enforcing dorm policies, submitting accurate documentation, communicating with managers, and reporting violations promptly. </li> </ul> </div> </th>
+    </tr>
+    
+   </table>
+   
+   
+   
+
+
+    
+<div class = "well well-sm"> <h2 id = "ski"> Skills </h2> </div>
+  
+<p> <ul>
+<li> Spanish: working proficiency </li>
+<li>HTML: Intermediate </li>
+<li> SQL: Intermediate </li></ul>
+</p>
+
+  </body>
+</html>

@@ -1,0 +1,36 @@
+<html>
+  <head> <h1> All the Classes </h1> </head>
+  
+  <style>
+    h1 {color: darkgreen}
+    table, th, td {border: 1px solid darkgreen; }
+    table{border-collapse: collapse; width: 90%}
+    th {color: black; font-size: 160%; height: 35px; background-color: darkgreen}
+    th, td {padding: 10px; }
+    
+    tr:hover {background-color: green}
+    tr:nth-child(even){background-color: lightgrey}
+    
+  </style>
+  <body>
+   
+    <table>
+      <tr> <th> Course Number</th> <th> Name </th> <th> Credits </th> <th> Teacher </th>
+      </tr>
+      <tr>
+        <td> 54783</td> <td> Web Authoring Tools</td> <td> 3 </td> <td> Henley </td> </tr>
+        <tr>
+        <td> 87324</td> <td> IS Consulting</td> <td> 3 </td> <td> Buskey </td> </tr>
+        <tr>
+        <td> 32845</td> <td> Intro to Java</td> <td> 3 </td> <td> Henley </td> </tr>
+      
+        <tr>
+        <td> 42857</td> <td> E-Business</td> <td> 3 </td> <td> Morgan </td> </tr>
+      
+        <tr>
+        <td> 10101</td> <td> Underwater Basket Weaving </td> <td> 3 </td> <td> Jones </td> </tr>
+      
+    </table>
+    
+  </body>
+</html>

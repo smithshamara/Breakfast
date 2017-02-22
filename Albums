@@ -1,0 +1,33 @@
+<html>
+  <head> </head>
+  <body> 
+    <h1> My Favorite Albums </h1>
+    <p> 
+    <ol> <li> <h2> Perfectly Imperfect </h2> <h3> - Elle Varner </h3><!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.ElleVarner {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6d/Elle_P*IMP.jpeg" alt="Perfectly Imperfect" class="ElleVarner">
+</li> 
+      
+      <li> <h2> Criminal Minded </h2> <h3> - Boogie Down Productions </h3> 
+<style type="text/css" scoped>
+img.BDP {
+width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a5/Criminal_Minded_Album_Cover.jpg" alt="Criminal Minded." class="BDP">
+</li> 
+      
+      <li> <h2> Coloring Book </h2> <h3> - Chance the Rapper </h3> <style type="text/css" scoped>
+img.ChancetheRapper {width:300px;height:300px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+} </style> <img src="https://i1.sndcdn.com/artworks-000164666747-vw6nqr-t500x500.jpg" alt="Coloring Book." class="ChancetheRapper"> </li> </ol>
+    </p>
+  </body>
+</html>

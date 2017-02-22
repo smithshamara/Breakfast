@@ -1,0 +1,45 @@
+<html>
+  <head> <head>
+  
+    <style>
+     div {hieght: 300px; width: 300px; background-color: #33FFF;}
+p. one {overflow: scroll;} 
+      h1 {text-align: center; color: blue;}
+    </style>
+    
+    <body>
+      
+      <h1 > It Looks as Good as it Tastes!!! </h1>
+      
+      <table> <tr> <th> </th> <th> </th> </tr>
+        <tr> <td><h2> Image 1: Happy Elephant </h2> <div> There is no greater love in elephant society than the maternal bond between mother and calf. In these early years, the calf is under the constant watch of his or her mother and knowledge vital to survival is imparted day to day. To observe the relationship between mother and baby elephant reveals a profound level of care and tenderness that is second to none in the animal kingdom. </div> </td> <td> <style type="text/css" scoped>
+img.Elephant {
+width:300px;height:250px;margin:10px;border-width:6px;border-color:#33FFFF;border-style:dotted;}
+</style>
+
+<img src="http://taildom.com/blog/wp-content/uploads/2012/04/happy-elephant.jpg" alt="Happy Elly." class="Elephant"></td> </tr>
+        <tr> <td>  <h2> Image 2: Sugar Shack </h2>
+    
+ <div>
+<style type="text/css" scoped>
+img.Sugar-Shack {
+width:300px;height:250px;margin:10px;border-width:6px;border-color:#33FFFF;border-style:dotted;}
+</style>
+
+<img src="https://usercontent1.hubstatic.com/12730404.png" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="Sugar-Shack" > </div> </td> <td> <div> Worldwide many people know about Ernie Barnes because of his famous painting entitled “Sugar Shack”.  This painting was displayed on the popular sitcom “Good Times” and was also utilized as an album cover for the late but great Marvin Gaye’s album “I Want You”.</div> </td> </tr>
+        <tr> <td> <h2> Image 3: Starry Night </h2>
+  
+      <p>       <div style = "align:left"> “This morning I saw the countryside from my window a long time before sunrise, with nothing but the morning star, which looked very big,” wrote van Gogh to his brother Theo, describing his inspiration for one of his best-known paintings, The Starry Night (1889).</div>
+ </td> <td> <div style = "align:right">
+<style type="text/css" scoped>
+img.Starry-Night {
+width:300px;height:250px;margin:10px;border-width:6px;border-color:#33FFFF;border-style:dotted;
+}
+</style>
+
+<img src="https://i.ytimg.com/vi/XVOuRSJ3D5o/maxresdefault.jpg" alt="Vangoh" class="Starry-Night"> </div>
+</td> </tr>
+      
+      
+</body>    
+</html>

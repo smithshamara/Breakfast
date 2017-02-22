@@ -12,7 +12,7 @@ p. one {overflow: scroll;}
       <h1 > It Looks as Good as it Tastes!!! </h1>
       
       <table> <tr> <th> </th> <th> </th> </tr>
-        <tr> <td><h2> Image 1: Happy Elephant </h2> <div> There is no greater love in elephant society than the maternal bond between mother and calf. In these early years, the calf is under the constant watch of his or her mother and knowledge vital to survival is imparted day to day. To observe the relationship between mother and baby elephant reveals a profound level of care and tenderness that is second to none in the animal kingdom. </div> </td> <td> <style type="text/css" scoped>
+        <tr> <td> <h2> Image 1: Happy Elephant </h2> </td> </tr> <tr> <td> <style type="text/css" scoped>
 img.Elephant {
 width:300px;height:250px;margin:10px;border-width:6px;border-color:#33FFFF;border-style:dotted;}
 </style>
